@@ -9,7 +9,7 @@ namespace MaquinaEstados.Data
         {
             var notes = new List<Note>{
 
-            new Note{Id= 0 , HowTo="pull to the server", Line="git pull",Platform="GIT" },
+            new Note{Id= 0 , HowTo="pull from the server", Line="git pull",Platform="GIT" },
         
             new Note{Id= 1 , HowTo="push to the server", Line="git push",Platform="GIT" },
         
